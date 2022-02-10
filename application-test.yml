@@ -1,0 +1,13 @@
+my:
+   greeting: Hello World from config server - Invoked from test environment  -36
+   values: One, Two, Three
+
+db:
+  connection: connection-string-here
+  host: 127.0.0.1
+  port: 1200
+
+test:
+  connection: UAT
+  host: test-environment
+  port: 1300
