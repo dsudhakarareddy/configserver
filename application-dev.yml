@@ -12,4 +12,4 @@ test:
   host: test-environment
   port: 1300
 server:
-  port: 9090
+  port: 9091
