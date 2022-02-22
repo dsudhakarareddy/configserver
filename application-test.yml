@@ -12,4 +12,4 @@ test:
   host: test-environment
   port: 1300
 server:
-  port: 8081
+  port: 8082
