@@ -11,5 +11,3 @@ test:
   connection: UAT
   host: test-environment
   port: 1300
-server:
-  port: 9091
