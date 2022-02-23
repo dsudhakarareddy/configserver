@@ -1,5 +1,5 @@
 my:
-   greeting: Hello World from config server - Invoked from Development environment - 1
+   greeting: Hello World from config server - Invoked from Development environment - 2
    values: One, Two, Three
 
 db:
