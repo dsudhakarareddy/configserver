@@ -1,5 +1,5 @@
 my:
-   greeting: Hello World from config server - Invoked from test environment  -37
+   greeting: ${my.greeting}
    values: One, Two, Three
 
 db:
