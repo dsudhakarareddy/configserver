@@ -1,15 +1,1 @@
-my:
-   greeting: ${my.greeting}
-   values: One, Two, Three
-
-db:
-  connection: connection-string-here from test environment
-  host: 127.0.0.1
-  port: 1200
-
-test:
-  connection: UAT
-  host: test-environment
-  port: 1300
-server:
-  port: 8082
+greeting: Accesses from Git repo
